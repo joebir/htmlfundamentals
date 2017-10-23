@@ -1,9 +1,23 @@
 .blueBackground {
 	background-color:cornFlowerBlue;
 }
+
 .smallBorder {
 	border:2px solid black;
 }
+
 .largeRedBorder {
 	border:10px solid red;
+}
+
+.silverSection {
+	width:70%;
+	background-color:aqua;
+	float:left;
+}
+
+.goldSection {
+	width:30%;
+	background-color:orange;
+	float:right;
 }
